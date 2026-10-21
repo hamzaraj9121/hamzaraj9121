@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0B1020,100:087CA7&height=230&section=header&text=Muhammad%20Hamza&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Engineer&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="Muhammad Hamza — Full-Stack Developer and Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=160&section=header&text=Muhammad%20Hamza&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descSize=16&descAlignY=68" width="100%" alt="Muhammad Hamza — Full-Stack Developer"/>
 
 <!-- ===== ANIMATED TAGLINES ===== -->
 
@@ -35,15 +35,15 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓-Bachelor's%20in%20Information%20Technology-172033?style=flat-square" alt="Education"/>
-<img src="https://img.shields.io/badge/📍-D--Type%20Colony%2C%20Faisalabad%2C%20Pakistan-172033?style=flat-square" alt="Location"/>
-<img src="https://img.shields.io/badge/🌐-Open%20to%20Remote%20Work-075E48?style=flat-square" alt="Open to remote work"/>
+<img src="https://img.shields.io/badge/🎓Bachelor's%20in%20Information%20Technology-172033?style=flat-square" alt="Education"/>
+<img src="https://img.shields.io/badge/📍Faisalabad%2C%20Pakistan-172033?style=flat-square" alt="Faisalabad, Pakistan"/>
+<img src="https://img.shields.io/badge/🌐Open%20to%20Remote%20Work-075E48?style=flat-square" alt="Open to remote work"/>
 
 </div>
 
 <br/>
 
-👨‍💻 About Me
+<h2><strong> About Me</strong></h2>
 
 I build intelligent applications by combining full-stack engineering with AI-powered technologies. I'm  passionate about building modern web applications, integrating AI into real-world products, and automating workflows to make them smarter and more efficient.
 
