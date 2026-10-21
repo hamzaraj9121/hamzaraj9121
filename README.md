@@ -1,14 +1,57 @@
-# 👋 Hey, I'm Hamza Shahbaz
+<div align="center">
 
-AI-Powered Full-Stack Developer | LLMs | Fast API | Modern Web Technologies
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0B1020,100:087CA7&height=230&section=header&text=Muhammad%20Hamza&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Engineer&descSize=19&descAlignY=60&animation=fadeIn" width="100%" alt="Muhammad Hamza — Full-Stack Developer and Software Engineer"/>
+
+<!-- ===== ANIMATED TAGLINES ===== -->
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=28C5FF&center=true&vCenter=true&width=850&height=100&lines=Designing+clean%2C+well-structured+software;Building+RAG+pipelines+%26+LLM+integrations;Optimizing+query+processing+%26+caching;Developing+end-to-end+projects+with+Next.js+%26+React" alt="Animated developer taglines"/>
+</a>
+
+</div>
+
+<!-- ===== SOCIAL LINKS ===== -->
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-hamzi/">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=28C5FF" alt="LinkedIn"/>
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=28C5FF" alt="Portfolio"/>
+</a>
+<a href="mailto:hamzashahbaz9121@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=28C5FF" alt="Email"/>
+</a>
+<a href="https://github.com/https://github.com/hamzaraj9121/">
+<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- ===== PROFILE DETAILS ===== -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓-Bachelor's%20in%20Information%20Technology-172033?style=flat-square" alt="Education"/>
+<img src="https://img.shields.io/badge/📍-D--Type%20Colony%2C%20Faisalabad%2C%20Pakistan-172033?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/🌐-Open%20to%20Remote%20Work-075E48?style=flat-square" alt="Open to remote work"/>
+
+</div>
+
+<br/>
+
+👨‍💻 About Me
 
 I build intelligent applications by combining full-stack engineering with AI-powered technologies. I'm  passionate about building modern web applications, integrating AI into real-world products, and automating workflows to make them smarter and more efficient.
 
-🤖 Exploring LLMs, neural networks,NLP, generative AI, and AI agents
+🤖 Exploring RAG, LLMs, neural networks,NLP, generative AI, and AI agents
 
 🧠 Building AI-powered applications and intelligent workflows
 
-⚡ Developing modern web applications with Next.js, React, and TypeScript
+⚡ Developing modern web applications with Next.js, React, and TypeScript 
 
 🔌 Integrating AI models and APIs into scalable backend systems
 
@@ -27,6 +70,7 @@ I build intelligent applications by combining full-stack engineering with AI-pow
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -36,6 +80,7 @@ I build intelligent applications by combining full-stack engineering with AI-pow
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -57,6 +102,7 @@ I build intelligent applications by combining full-stack engineering with AI-pow
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
 
 
 
